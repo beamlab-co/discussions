@@ -1,2 +1,2 @@
 # discussions
-Repository for Org Discussion
+Repository for public discussions
